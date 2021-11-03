@@ -49,7 +49,7 @@ LOGIN_PASSWORD=<YOUR-LOGIN-PASSWORD>
     ```
     pm2 starup
     ```
-    startup with the lastest saved of your PM2 state.
+    startup with the latest saved of your PM2 state.
 
 
 So, whenever you started windows, it's gonna run **loginToWifi.js** script, which will automatically login and check for your wifi connection every 30 seconds.
